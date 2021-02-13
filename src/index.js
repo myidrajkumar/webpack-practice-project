@@ -1,3 +1,5 @@
+import "./styles/index.scss";
+
 const elvenShieldRecipie = {
     leatherStrips: 2,
     ironIngot: 1,
